@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pepkonlawat
 - 👀 I’m interested in UX/UI design,font-end
-- 🌱 I’m currently learning react.js
-- 💞️ I’m looking to collaborate on Web development
+- 🌱 I’m currently learning react.js/cyber security
+- 💞️ I’m looking to collaborate on Web development/Cyber security 
 - 📫 How to reach me ...konlawat.khathaphet@gmail.com
 
 <!---
